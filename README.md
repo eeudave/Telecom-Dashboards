@@ -5,8 +5,6 @@ Experienced IT Professional with two decades of expertise in data lifecycle mana
 
 ## Dashboards
 
----
-
 ### 1. [LTE RADAR] 
 
 <img src="dashboards/radar_1.png" alt="Dashboard Preview" width="700"/>
