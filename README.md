@@ -3,7 +3,7 @@ Part of my Data Management and Visualization projects.
 
 Experienced IT Professional with two decades of expertise in data lifecycle management and analytics. Telecommunications specialist adept at transforming complex data into strategic insights through interactive dashboards and KPI analysis.
 
-## Projects
+## Dashboards
 
 ---
 
