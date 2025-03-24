@@ -9,14 +9,14 @@ Experienced IT Professional with two decades of expertise in data lifecycle mana
 
 ### 1. [LTE RADAR] 
 
-<img src="dashboards/radar_1.png" alt="Dashboard Preview" width="500"/>
+<img src="dashboards/radar_1.png" alt="Dashboard Preview" width="700"/>
 
 - **Description**:
 ---
 
 ### 2. [GoU] 
 
-<img src="dashboards/gou_1.png" alt="Dashboard Preview" width="500"/>
+<img src="dashboards/gou_1.png" alt="Dashboard Preview" width="700"/>
 
 - **Description**:
 
@@ -24,7 +24,7 @@ Experienced IT Professional with two decades of expertise in data lifecycle mana
 
 ### 3. [NPS Vs RADAR LTE] 
 
-<img src="dashboards/nps_1.png" alt="Dashboard Preview" width="500"/>
+<img src="dashboards/nps_1.png" alt="Dashboard Preview" width="700"/>
 
 - **Description**:
 
@@ -32,6 +32,6 @@ Experienced IT Professional with two decades of expertise in data lifecycle mana
 
 ### 4. [Use of Modems] 
 
-<img src="dashboards/modems_2.png" alt="Dashboard Preview" width="500"/>
+<img src="dashboards/modems_2.png" alt="Dashboard Preview" width="700"/>
 
 - **Description**:
