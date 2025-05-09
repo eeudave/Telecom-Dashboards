@@ -9,22 +9,18 @@ Experienced IT Professional with two decades of expertise in data lifecycle mana
 
 <img src="dashboards/radar_1.png" alt="Dashboard Preview" width="700"/>
 
-- **Description**:
 ---
 
 ### 2. [GoU] 
 
 <img src="dashboards/gou_1.png" alt="Dashboard Preview" width="700"/>
 
-- **Description**:
-
 ---
 
 ### 3. [NPS Vs RADAR LTE] 
 
 <img src="dashboards/nps_1.png" alt="Dashboard Preview" width="700"/>
-
-- **Description**:
+<img src="dashboards/nps_2.png" alt="Dashboard Preview" width="700"/>
 
 ---
 
@@ -32,4 +28,27 @@ Experienced IT Professional with two decades of expertise in data lifecycle mana
 
 <img src="dashboards/modems_2.png" alt="Dashboard Preview" width="700"/>
 
-- **Description**:
+---
+
+### 5. [Capacity Performance] 
+
+<img src="dashboards/capacity.png" alt="Dashboard Preview" width="700"/>
+
+---
+
+### 6. [Forecasting time series Data (Winters Method)] 
+
+<img src="dashboards/winters.png" alt="Dashboard Preview" width="700"/>
+
+---
+
+### 7. [Qualipoc Analyzer] 
+
+<img src="dashboards/qp_analyzer.png" alt="Dashboard Preview" width="700"/>
+
+---
+
+### 8. [Push To Talk Metrics] 
+
+<img src="dashboards/poc.png" alt="Dashboard Preview" width="700"/>
+
